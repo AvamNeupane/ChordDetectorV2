@@ -17,8 +17,7 @@ This model was designed to track individual finger positions and map them to spe
 
 I used a small dataset of **10–15 labelled images**, marking key points on each finger across different chord shapes (e.g. A minor, G major). This allows the model to understand what each chord visually looks like from a top-down perspective.
 
-![Labeled Keypoints on Fingers](insert-image-url-or-path-here)
-
+<img width="1320" height="700" alt="Image" src="https://github.com/user-attachments/assets/10b6994a-c98c-4c45-9236-a87bb39d8486" />
 
 ## 🖥️ Local Deployment via Docker
 
