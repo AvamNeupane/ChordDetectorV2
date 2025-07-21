@@ -7,7 +7,7 @@ A real-time chord recognition app that detects the guitar chord you're playing u
 
 I trained the model using Roboflow’s **Keypoint Detection** architecture.
 
-![Roboflow Model Interface](insert-image-url-or-path-here)
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/078e4f78-ddf2-4dad-befc-104028469f7f" />
 
 This model was designed to track individual finger positions and map them to specific chord shapes.
 
