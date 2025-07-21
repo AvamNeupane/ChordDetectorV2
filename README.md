@@ -3,11 +3,13 @@
 A real-time chord recognition app that detects the guitar chord you're playing using computer vision and keypoint detection.
 
 
+<img width="1320" height="700"" alt="Image" src="https://github.com/user-attachments/assets/3ab8de1e-a82e-462a-9b37-bad59e8f953d" />
+
 ## 🔍 Model: Roboflow 3.0 Keypoint Detection
 
 I trained the model using Roboflow’s **Keypoint Detection** architecture.
 
-<img width="1520" height="900" alt="Image" src="https://github.com/user-attachments/assets/078e4f78-ddf2-4dad-befc-104028469f7f" />
+<img width="1320" height="700" alt="Image" src="https://github.com/user-attachments/assets/078e4f78-ddf2-4dad-befc-104028469f7f" />
 
 This model was designed to track individual finger positions and map them to specific chord shapes.
 
